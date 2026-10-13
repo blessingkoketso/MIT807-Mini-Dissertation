@@ -4,7 +4,8 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 ## 📌 Abstract / Overview
-A concise summary (150–250 words) of your Master's research. State the problem statement, core methodology, key findings, and the significance of the results. 
+Master’s Mini-Dissertation. This research addresses the technical and structural limitations of vector RAG when processing multi-hop relational queries from unstructured crude intelligence data sources. Vector RAG cannot capture the explicit network topologies of energy supply chains and produces incomplete, contextually isolated answers. Graph RAG offers a structurally grounded alternative.
+, core methodology, key findings, and the significance of the results. 
 
 * **Author:** Blessing Magabane
 * **Degree:** MIT in Big Data Science
